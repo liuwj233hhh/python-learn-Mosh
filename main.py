@@ -259,3 +259,5 @@ print(path.exists())
 path = Path()
 for file in path.glob('*.py'):
     print(file)
+
+# 测试是否添加成功
